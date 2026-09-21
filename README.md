@@ -4,6 +4,9 @@
 
 **Based on work of:** Gábor Bergmann, Gábor Szárnyas
 
+## Status of the working branch "practice-2"
+[![Continuous Integration](https://github.com/dashBuresz/ase-labs-v7udh6/actions/workflows/ci.yml/badge.svg?branch=practice-2)](https://github.com/dashBuresz/ase-labs-v7udh6/actions/workflows/ci.yml)
+
 ## Practice
 
 See https://github.com/ftsrg-edu/ase-labs/wiki/Practice-2a
